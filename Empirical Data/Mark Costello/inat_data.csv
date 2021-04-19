@@ -1,0 +1,2104 @@
+﻿country,year,response,month,covid
+Argentina,2011,0.21,MAR,no
+Austria,2011,0.02,MAR,no
+Australia,2011,0.09,MAR,no
+Begium,2011,0.04,MAR,no
+Bulgaria,2011,0.02,MAR,no
+Bolivia (Plurinational State of),2011,0.01,MAR,no
+Brazil,2011,0.10,MAR,no
+Botswana,2011,0.24,MAR,no
+Belize,2011,0.02,MAR,no
+Canada,2011,0.03,MAR,no
+Switzerland,2011,0.01,MAR,no
+Chile,2011,0.09,MAR,no
+China,2011,0.15,MAR,no
+Colombia,2011,0.10,MAR,no
+Costa Rica,2011,0.21,MAR,no
+Cuba,2011,0.22,MAR,no
+Czechia,2011,0.02,MAR,no
+Germany,2011,0.10,MAR,no
+Denmark,2011,0.01,MAR,no
+Dominican Republic (the),2011,,MAR,no
+Ecuador,2011,0.16,MAR,no
+Egypt,2011,0.28,MAR,no
+Spain,2011,0.03,MAR,no
+Finland,2011,0.00,MAR,no
+France,2011,0.05,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2011,0.07,MAR,no
+Greece,2011,0.07,MAR,no
+Hong Kong,2011,0.04,MAR,no
+Honduras,2011,0.51,MAR,no
+Hungary,2011,0.09,MAR,no
+Indonesia,2011,0.13,MAR,no
+Ireland,2011,0.04,MAR,no
+Israel,2011,0.01,MAR,no
+India,2011,0.09,MAR,no
+Italy,2011,0.04,MAR,no
+Japan,2011,0.03,MAR,no
+Kenya,2011,0.11,MAR,no
+Cambodia,2011,0.11,MAR,no
+Korea (the Republic of),2011,0.10,MAR,no
+Kazakhstan,2011,0.06,MAR,no
+Sri Lanka,2011,0.01,MAR,no
+Lithuania,2011,,MAR,no
+Morocco,2011,0.42,MAR,no
+Madagascar,2011,0.39,MAR,no
+Mexico,2011,0.09,MAR,no
+Malaysia,2011,0.04,MAR,no
+Nigeria,2011,0.05,MAR,no
+Nicaragua,2011,0.08,MAR,no
+Netherlands (the),2011,0.09,MAR,no
+Norway,2011,0.44,MAR,no
+New Zealand,2011,0.15,MAR,no
+Panama,2011,0.08,MAR,no
+Peru,2011,0.21,MAR,no
+Philippines (the),2011,0.14,MAR,no
+Poland,2011,0.01,MAR,no
+Portugal,2011,0.09,MAR,no
+Serbia,2011,0.11,MAR,no
+Russian Federation (the),2011,0.01,MAR,no
+Sweden,2011,0.03,MAR,no
+Singapore,2011,0.14,MAR,no
+Slovakia,2011,0.01,MAR,no
+Turkey,2011,0.40,MAR,no
+Trinidad and Tobago,2011,0.08,MAR,no
+Taiwan ,2011,0.09,MAR,no
+"Tanzania, United Republic of",2011,0.32,MAR,no
+Ukraine,2011,0.02,MAR,no
+United States of America (the),2011,0.07,MAR,no
+Venezuela (Bolivarian Republic of),2011,0.33,MAR,no
+Vietnam,2011,0.27,MAR,no
+South Africa,2011,0.08,MAR,no
+Argentina,2011,0.07,APR,no
+Austria,2011,0.02,APR,no
+Australia,2011,0.13,APR,no
+Begium,2011,0.10,APR,no
+Bulgaria,2011,,APR,no
+Bolivia (Plurinational State of),2011,0.24,APR,no
+Brazil,2011,0.07,APR,no
+Botswana,2011,0.08,APR,no
+Belize,2011,0.04,APR,no
+Canada,2011,0.05,APR,no
+Switzerland,2011,0.07,APR,no
+Chile,2011,0.12,APR,no
+China,2011,0.14,APR,no
+Colombia,2011,0.09,APR,no
+Costa Rica,2011,0.03,APR,no
+Cuba,2011,0.01,APR,no
+Czechia,2011,0.08,APR,no
+Germany,2011,0.20,APR,no
+Denmark,2011,0.05,APR,no
+Dominican Republic (the),2011,0.49,APR,no
+Ecuador,2011,0.09,APR,no
+Egypt,2011,0.09,APR,no
+Spain,2011,0.19,APR,no
+Finland,2011,0.19,APR,no
+France,2011,0.10,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2011,0.14,APR,no
+Greece,2011,0.21,APR,no
+Hong Kong,2011,0.22,APR,no
+Honduras,2011,0.11,APR,no
+Hungary,2011,0.02,APR,no
+Indonesia,2011,0.01,APR,no
+Ireland,2011,0.36,APR,no
+Israel,2011,0.15,APR,no
+India,2011,0.10,APR,no
+Italy,2011,0.15,APR,no
+Japan,2011,0.06,APR,no
+Kenya,2011,0.02,APR,no
+Cambodia,2011,0.09,APR,no
+Korea (the Republic of),2011,0.12,APR,no
+Kazakhstan,2011,0.25,APR,no
+Sri Lanka,2011,0.09,APR,no
+Lithuania,2011,0.12,APR,no
+Morocco,2011,0.16,APR,no
+Madagascar,2011,0.08,APR,no
+Mexico,2011,0.12,APR,no
+Malaysia,2011,0.03,APR,no
+Nigeria,2011,0.26,APR,no
+Nicaragua,2011,0.09,APR,no
+Netherlands (the),2011,0.14,APR,no
+Norway,2011,0.21,APR,no
+New Zealand,2011,0.17,APR,no
+Panama,2011,0.08,APR,no
+Peru,2011,0.12,APR,no
+Philippines (the),2011,0.25,APR,no
+Poland,2011,0.16,APR,no
+Portugal,2011,0.20,APR,no
+Serbia,2011,0.20,APR,no
+Russian Federation (the),2011,0.04,APR,no
+Sweden,2011,0.53,APR,no
+Singapore,2011,0.10,APR,no
+Slovakia,2011,0.13,APR,no
+Turkey,2011,0.08,APR,no
+Trinidad and Tobago,2011,0.12,APR,no
+Taiwan ,2011,0.11,APR,no
+"Tanzania, United Republic of",2011,0.01,APR,no
+Ukraine,2011,0.11,APR,no
+United States of America (the),2011,0.13,APR,no
+Venezuela (Bolivarian Republic of),2011,0.29,APR,no
+Vietnam,2011,0.05,APR,no
+South Africa,2011,0.04,APR,no
+Argentina,2011,0.09,MAY,no
+Austria,2011,0.10,MAY,no
+Australia,2011,0.06,MAY,no
+Begium,2011,0.07,MAY,no
+Bulgaria,2011,0.04,MAY,no
+Bolivia (Plurinational State of),2011,0.29,MAY,no
+Brazil,2011,0.04,MAY,no
+Botswana,2011,0.15,MAY,no
+Belize,2011,0.12,MAY,no
+Canada,2011,0.13,MAY,no
+Switzerland,2011,0.22,MAY,no
+Chile,2011,0.04,MAY,no
+China,2011,0.12,MAY,no
+Colombia,2011,0.16,MAY,no
+Costa Rica,2011,0.36,MAY,no
+Cuba,2011,0.10,MAY,no
+Czechia,2011,0.24,MAY,no
+Germany,2011,0.15,MAY,no
+Denmark,2011,0.06,MAY,no
+Dominican Republic (the),2011,0.12,MAY,no
+Ecuador,2011,0.09,MAY,no
+Egypt,2011,0.03,MAY,no
+Spain,2011,0.19,MAY,no
+Finland,2011,0.10,MAY,no
+France,2011,0.14,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2011,0.15,MAY,no
+Greece,2011,0.25,MAY,no
+Hong Kong,2011,0.24,MAY,no
+Honduras,2011,0.12,MAY,no
+Hungary,2011,0.46,MAY,no
+Indonesia,2011,0.12,MAY,no
+Ireland,2011,0.10,MAY,no
+Israel,2011,0.21,MAY,no
+India,2011,0.05,MAY,no
+Italy,2011,0.21,MAY,no
+Japan,2011,0.28,MAY,no
+Kenya,2011,0.04,MAY,no
+Cambodia,2011,0.07,MAY,no
+Korea (the Republic of),2011,0.14,MAY,no
+Kazakhstan,2011,0.17,MAY,no
+Sri Lanka,2011,0.02,MAY,no
+Lithuania,2011,0.12,MAY,no
+Morocco,2011,0.26,MAY,no
+Madagascar,2011,0.07,MAY,no
+Mexico,2011,0.10,MAY,no
+Malaysia,2011,0.10,MAY,no
+Nigeria,2011,0.05,MAY,no
+Nicaragua,2011,0.24,MAY,no
+Netherlands (the),2011,0.14,MAY,no
+Norway,2011,0.01,MAY,no
+New Zealand,2011,0.10,MAY,no
+Panama,2011,0.06,MAY,no
+Peru,2011,0.10,MAY,no
+Philippines (the),2011,0.08,MAY,no
+Poland,2011,0.24,MAY,no
+Portugal,2011,0.16,MAY,no
+Serbia,2011,0.18,MAY,no
+Russian Federation (the),2011,0.17,MAY,no
+Sweden,2011,0.01,MAY,no
+Singapore,2011,0.03,MAY,no
+Slovakia,2011,0.15,MAY,no
+Turkey,2011,0.25,MAY,no
+Trinidad and Tobago,2011,0.55,MAY,no
+Taiwan ,2011,0.13,MAY,no
+"Tanzania, United Republic of",2011,0.01,MAY,no
+Ukraine,2011,0.23,MAY,no
+United States of America (the),2011,0.15,MAY,no
+Venezuela (Bolivarian Republic of),2011,0.08,MAY,no
+Vietnam,2011,0.05,MAY,no
+South Africa,2011,0.04,MAY,no
+Argentina,2012,0.09,MAR,no
+Austria,2012,0.06,MAR,no
+Australia,2012,0.11,MAR,no
+Begium,2012,0.03,MAR,no
+Bulgaria,2012,0.00,MAR,no
+Bolivia (Plurinational State of),2012,0.13,MAR,no
+Brazil,2012,0.10,MAR,no
+Botswana,2012,0.08,MAR,no
+Belize,2012,0.22,MAR,no
+Canada,2012,0.03,MAR,no
+Switzerland,2012,0.02,MAR,no
+Chile,2012,0.14,MAR,no
+China,2012,0.02,MAR,no
+Colombia,2012,0.07,MAR,no
+Costa Rica,2012,0.15,MAR,no
+Cuba,2012,0.10,MAR,no
+Czechia,2012,0.07,MAR,no
+Germany,2012,0.08,MAR,no
+Denmark,2012,0.01,MAR,no
+Dominican Republic (the),2012,0.09,MAR,no
+Ecuador,2012,0.38,MAR,no
+Egypt,2012,0.01,MAR,no
+Spain,2012,0.08,MAR,no
+Finland,2012,0.02,MAR,no
+France,2012,0.03,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2012,0.08,MAR,no
+Greece,2012,0.05,MAR,no
+Hong Kong,2012,0.06,MAR,no
+Honduras,2012,0.08,MAR,no
+Hungary,2012,0.20,MAR,no
+Indonesia,2012,0.05,MAR,no
+Ireland,2012,0.02,MAR,no
+Israel,2012,0.12,MAR,no
+India,2012,0.12,MAR,no
+Italy,2012,0.03,MAR,no
+Japan,2012,0.05,MAR,no
+Kenya,2012,0.02,MAR,no
+Cambodia,2012,0.08,MAR,no
+Korea (the Republic of),2012,0.18,MAR,no
+Kazakhstan,2012,0.02,MAR,no
+Sri Lanka,2012,0.05,MAR,no
+Lithuania,2012,0.02,MAR,no
+Morocco,2012,0.25,MAR,no
+Madagascar,2012,0.02,MAR,no
+Mexico,2012,0.11,MAR,no
+Malaysia,2012,0.09,MAR,no
+Nigeria,2012,0.07,MAR,no
+Nicaragua,2012,0.11,MAR,no
+Netherlands (the),2012,0.07,MAR,no
+Norway,2012,0.01,MAR,no
+New Zealand,2012,0.15,MAR,no
+Panama,2012,0.04,MAR,no
+Peru,2012,0.04,MAR,no
+Philippines (the),2012,0.14,MAR,no
+Poland,2012,0.02,MAR,no
+Portugal,2012,0.17,MAR,no
+Serbia,2012,0.02,MAR,no
+Russian Federation (the),2012,0.01,MAR,no
+Sweden,2012,0.00,MAR,no
+Singapore,2012,0.11,MAR,no
+Slovakia,2012,0.17,MAR,no
+Turkey,2012,,MAR,no
+Trinidad and Tobago,2012,0.35,MAR,no
+Taiwan ,2012,0.07,MAR,no
+"Tanzania, United Republic of",2012,0.01,MAR,no
+Ukraine,2012,0.03,MAR,no
+United States of America (the),2012,0.08,MAR,no
+Venezuela (Bolivarian Republic of),2012,0.13,MAR,no
+Vietnam,2012,0.03,MAR,no
+South Africa,2012,0.08,MAR,no
+Argentina,2012,0.07,APR,no
+Austria,2012,0.06,APR,no
+Australia,2012,0.15,APR,no
+Begium,2012,,APR,no
+Bulgaria,2012,0.01,APR,no
+Bolivia (Plurinational State of),2012,0.04,APR,no
+Brazil,2012,0.10,APR,no
+Botswana,2012,0.06,APR,no
+Belize,2012,0.05,APR,no
+Canada,2012,0.07,APR,no
+Switzerland,2012,0.03,APR,no
+Chile,2012,0.01,APR,no
+China,2012,0.01,APR,no
+Colombia,2012,0.20,APR,no
+Costa Rica,2012,0.28,APR,no
+Cuba,2012,0.43,APR,no
+Czechia,2012,0.16,APR,no
+Germany,2012,0.13,APR,no
+Denmark,2012,0.02,APR,no
+Dominican Republic (the),2012,0.15,APR,no
+Ecuador,2012,0.05,APR,no
+Egypt,2012,0.10,APR,no
+Spain,2012,0.08,APR,no
+Finland,2012,0.03,APR,no
+France,2012,0.08,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2012,0.10,APR,no
+Greece,2012,0.06,APR,no
+Hong Kong,2012,0.13,APR,no
+Honduras,2012,0.05,APR,no
+Hungary,2012,,APR,no
+Indonesia,2012,0.02,APR,no
+Ireland,2012,0.02,APR,no
+Israel,2012,0.24,APR,no
+India,2012,0.25,APR,no
+Italy,2012,0.06,APR,no
+Japan,2012,0.10,APR,no
+Kenya,2012,0.02,APR,no
+Cambodia,2012,0.08,APR,no
+Korea (the Republic of),2012,0.14,APR,no
+Kazakhstan,2012,0.15,APR,no
+Sri Lanka,2012,0.06,APR,no
+Lithuania,2012,0.22,APR,no
+Morocco,2012,0.22,APR,no
+Madagascar,2012,0.36,APR,no
+Mexico,2012,0.10,APR,no
+Malaysia,2012,0.05,APR,no
+Nigeria,2012,0.04,APR,no
+Nicaragua,2012,0.02,APR,no
+Netherlands (the),2012,0.12,APR,no
+Norway,2012,0.04,APR,no
+New Zealand,2012,0.12,APR,no
+Panama,2012,0.04,APR,no
+Peru,2012,0.21,APR,no
+Philippines (the),2012,0.12,APR,no
+Poland,2012,0.13,APR,no
+Portugal,2012,0.09,APR,no
+Serbia,2012,0.18,APR,no
+Russian Federation (the),2012,0.07,APR,no
+Sweden,2012,0.08,APR,no
+Singapore,2012,0.03,APR,no
+Slovakia,2012,0.16,APR,no
+Turkey,2012,0.40,APR,no
+Trinidad and Tobago,2012,0.13,APR,no
+Taiwan ,2012,0.20,APR,no
+"Tanzania, United Republic of",2012,0.02,APR,no
+Ukraine,2012,0.18,APR,no
+United States of America (the),2012,0.13,APR,no
+Venezuela (Bolivarian Republic of),2012,0.33,APR,no
+Vietnam,2012,0.19,APR,no
+South Africa,2012,0.08,APR,no
+Argentina,2012,0.05,MAY,no
+Austria,2012,0.17,MAY,no
+Australia,2012,0.09,MAY,no
+Begium,2012,0.32,MAY,no
+Bulgaria,2012,0.03,MAY,no
+Bolivia (Plurinational State of),2012,0.14,MAY,no
+Brazil,2012,0.09,MAY,no
+Botswana,2012,0.03,MAY,no
+Belize,2012,0.15,MAY,no
+Canada,2012,0.17,MAY,no
+Switzerland,2012,0.12,MAY,no
+Chile,2012,0.05,MAY,no
+China,2012,0.32,MAY,no
+Colombia,2012,0.02,MAY,no
+Costa Rica,2012,0.04,MAY,no
+Cuba,2012,0.01,MAY,no
+Czechia,2012,0.30,MAY,no
+Germany,2012,0.23,MAY,no
+Denmark,2012,0.16,MAY,no
+Dominican Republic (the),2012,0.08,MAY,no
+Ecuador,2012,0.07,MAY,no
+Egypt,2012,0.41,MAY,no
+Spain,2012,0.13,MAY,no
+Finland,2012,0.16,MAY,no
+France,2012,0.14,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2012,0.22,MAY,no
+Greece,2012,0.24,MAY,no
+Hong Kong,2012,0.17,MAY,no
+Honduras,2012,0.14,MAY,no
+Hungary,2012,0.10,MAY,no
+Indonesia,2012,0.08,MAY,no
+Ireland,2012,0.14,MAY,no
+Israel,2012,0.01,MAY,no
+India,2012,0.09,MAY,no
+Italy,2012,0.13,MAY,no
+Japan,2012,0.09,MAY,no
+Kenya,2012,0.18,MAY,no
+Cambodia,2012,0.08,MAY,no
+Korea (the Republic of),2012,0.15,MAY,no
+Kazakhstan,2012,0.63,MAY,no
+Sri Lanka,2012,0.05,MAY,no
+Lithuania,2012,0.18,MAY,no
+Morocco,2012,0.22,MAY,no
+Madagascar,2012,0.06,MAY,no
+Mexico,2012,0.08,MAY,no
+Malaysia,2012,0.02,MAY,no
+Nigeria,2012,0.07,MAY,no
+Nicaragua,2012,0.02,MAY,no
+Netherlands (the),2012,0.26,MAY,no
+Norway,2012,0.04,MAY,no
+New Zealand,2012,0.05,MAY,no
+Panama,2012,0.08,MAY,no
+Peru,2012,0.04,MAY,no
+Philippines (the),2012,0.07,MAY,no
+Poland,2012,0.27,MAY,no
+Portugal,2012,0.20,MAY,no
+Serbia,2012,0.15,MAY,no
+Russian Federation (the),2012,0.18,MAY,no
+Sweden,2012,0.23,MAY,no
+Singapore,2012,0.04,MAY,no
+Slovakia,2012,0.20,MAY,no
+Turkey,2012,0.24,MAY,no
+Trinidad and Tobago,2012,0.08,MAY,no
+Taiwan ,2012,0.10,MAY,no
+"Tanzania, United Republic of",2012,0.03,MAY,no
+Ukraine,2012,0.38,MAY,no
+United States of America (the),2012,0.17,MAY,no
+Venezuela (Bolivarian Republic of),2012,0.15,MAY,no
+Vietnam,2012,0.07,MAY,no
+South Africa,2012,0.10,MAY,no
+Argentina,2013,0.17,MAR,no
+Austria,2013,0.04,MAR,no
+Australia,2013,0.12,MAR,no
+Begium,2013,0.03,MAR,no
+Bulgaria,2013,0.01,MAR,no
+Bolivia (Plurinational State of),2013,0.23,MAR,no
+Brazil,2013,0.09,MAR,no
+Botswana,2013,0.12,MAR,no
+Belize,2013,0.04,MAR,no
+Canada,2013,0.03,MAR,no
+Switzerland,2013,0.02,MAR,no
+Chile,2013,0.07,MAR,no
+China,2013,0.13,MAR,no
+Colombia,2013,0.18,MAR,no
+Costa Rica,2013,0.07,MAR,no
+Cuba,2013,0.54,MAR,no
+Czechia,2013,0.01,MAR,no
+Germany,2013,0.04,MAR,no
+Denmark,2013,0.03,MAR,no
+Dominican Republic (the),2013,0.10,MAR,no
+Ecuador,2013,0.16,MAR,no
+Egypt,2013,0.00,MAR,no
+Spain,2013,0.05,MAR,no
+Finland,2013,0.02,MAR,no
+France,2013,0.09,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2013,0.05,MAR,no
+Greece,2013,0.13,MAR,no
+Hong Kong,2013,0.09,MAR,no
+Honduras,2013,0.03,MAR,no
+Hungary,2013,0.06,MAR,no
+Indonesia,2013,0.05,MAR,no
+Ireland,2013,0.02,MAR,no
+Israel,2013,0.60,MAR,no
+India,2013,0.07,MAR,no
+Italy,2013,0.04,MAR,no
+Japan,2013,0.08,MAR,no
+Kenya,2013,0.06,MAR,no
+Cambodia,2013,0.15,MAR,no
+Korea (the Republic of),2013,0.05,MAR,no
+Kazakhstan,2013,,MAR,no
+Sri Lanka,2013,0.18,MAR,no
+Lithuania,2013,0.06,MAR,no
+Morocco,2013,0.76,MAR,no
+Madagascar,2013,0.14,MAR,no
+Mexico,2013,0.10,MAR,no
+Malaysia,2013,0.02,MAR,no
+Nigeria,2013,0.22,MAR,no
+Nicaragua,2013,0.09,MAR,no
+Netherlands (the),2013,0.04,MAR,no
+Norway,2013,0.51,MAR,no
+New Zealand,2013,0.15,MAR,no
+Panama,2013,0.16,MAR,no
+Peru,2013,0.06,MAR,no
+Philippines (the),2013,0.11,MAR,no
+Poland,2013,0.01,MAR,no
+Portugal,2013,0.05,MAR,no
+Serbia,2013,0.06,MAR,no
+Russian Federation (the),2013,0.01,MAR,no
+Sweden,2013,0.03,MAR,no
+Singapore,2013,0.01,MAR,no
+Slovakia,2013,0.03,MAR,no
+Turkey,2013,0.06,MAR,no
+Trinidad and Tobago,2013,0.14,MAR,no
+Taiwan ,2013,0.08,MAR,no
+"Tanzania, United Republic of",2013,0.16,MAR,no
+Ukraine,2013,0.01,MAR,no
+United States of America (the),2013,0.08,MAR,no
+Venezuela (Bolivarian Republic of),2013,0.11,MAR,no
+Vietnam,2013,0.07,MAR,no
+South Africa,2013,0.11,MAR,no
+Argentina,2013,0.07,APR,no
+Austria,2013,0.07,APR,no
+Australia,2013,0.12,APR,no
+Begium,2013,0.13,APR,no
+Bulgaria,2013,0.14,APR,no
+Bolivia (Plurinational State of),2013,0.18,APR,no
+Brazil,2013,0.05,APR,no
+Botswana,2013,0.06,APR,no
+Belize,2013,0.04,APR,no
+Canada,2013,0.07,APR,no
+Switzerland,2013,0.04,APR,no
+Chile,2013,0.08,APR,no
+China,2013,0.12,APR,no
+Colombia,2013,0.07,APR,no
+Costa Rica,2013,0.14,APR,no
+Cuba,2013,0.03,APR,no
+Czechia,2013,0.12,APR,no
+Germany,2013,0.06,APR,no
+Denmark,2013,0.03,APR,no
+Dominican Republic (the),2013,0.14,APR,no
+Ecuador,2013,0.08,APR,no
+Egypt,2013,0.09,APR,no
+Spain,2013,0.13,APR,no
+Finland,2013,0.12,APR,no
+France,2013,0.07,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2013,0.08,APR,no
+Greece,2013,0.14,APR,no
+Hong Kong,2013,0.16,APR,no
+Honduras,2013,0.19,APR,no
+Hungary,2013,0.05,APR,no
+Indonesia,2013,0.38,APR,no
+Ireland,2013,0.02,APR,no
+Israel,2013,0.09,APR,no
+India,2013,0.13,APR,no
+Italy,2013,0.13,APR,no
+Japan,2013,0.11,APR,no
+Kenya,2013,0.12,APR,no
+Cambodia,2013,0.02,APR,no
+Korea (the Republic of),2013,0.05,APR,no
+Kazakhstan,2013,0.07,APR,no
+Sri Lanka,2013,0.05,APR,no
+Lithuania,2013,0.23,APR,no
+Morocco,2013,0.03,APR,no
+Madagascar,2013,0.34,APR,no
+Mexico,2013,0.08,APR,no
+Malaysia,2013,0.03,APR,no
+Nigeria,2013,0.17,APR,no
+Nicaragua,2013,0.13,APR,no
+Netherlands (the),2013,0.07,APR,no
+Norway,2013,0.10,APR,no
+New Zealand,2013,0.16,APR,no
+Panama,2013,0.07,APR,no
+Peru,2013,0.08,APR,no
+Philippines (the),2013,0.08,APR,no
+Poland,2013,0.05,APR,no
+Portugal,2013,0.09,APR,no
+Serbia,2013,0.26,APR,no
+Russian Federation (the),2013,0.07,APR,no
+Sweden,2013,0.13,APR,no
+Singapore,2013,0.16,APR,no
+Slovakia,2013,0.13,APR,no
+Turkey,2013,0.11,APR,no
+Trinidad and Tobago,2013,0.07,APR,no
+Taiwan ,2013,0.17,APR,no
+"Tanzania, United Republic of",2013,0.03,APR,no
+Ukraine,2013,0.09,APR,no
+United States of America (the),2013,0.12,APR,no
+Venezuela (Bolivarian Republic of),2013,0.05,APR,no
+Vietnam,2013,0.07,APR,no
+South Africa,2013,0.11,APR,no
+Argentina,2013,0.07,MAY,no
+Austria,2013,0.09,MAY,no
+Australia,2013,0.08,MAY,no
+Begium,2013,0.05,MAY,no
+Bulgaria,2013,0.06,MAY,no
+Bolivia (Plurinational State of),2013,0.13,MAY,no
+Brazil,2013,0.09,MAY,no
+Botswana,2013,0.08,MAY,no
+Belize,2013,0.30,MAY,no
+Canada,2013,0.16,MAY,no
+Switzerland,2013,0.21,MAY,no
+Chile,2013,0.03,MAY,no
+China,2013,0.13,MAY,no
+Colombia,2013,0.13,MAY,no
+Costa Rica,2013,0.07,MAY,no
+Cuba,2013,,MAY,no
+Czechia,2013,0.22,MAY,no
+Germany,2013,0.10,MAY,no
+Denmark,2013,0.14,MAY,no
+Dominican Republic (the),2013,0.02,MAY,no
+Ecuador,2013,0.05,MAY,no
+Egypt,2013,0.05,MAY,no
+Spain,2013,0.26,MAY,no
+Finland,2013,0.15,MAY,no
+France,2013,0.18,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2013,0.18,MAY,no
+Greece,2013,0.11,MAY,no
+Hong Kong,2013,0.18,MAY,no
+Honduras,2013,0.27,MAY,no
+Hungary,2013,0.23,MAY,no
+Indonesia,2013,0.05,MAY,no
+Ireland,2013,0.25,MAY,no
+Israel,2013,0.07,MAY,no
+India,2013,0.08,MAY,no
+Italy,2013,0.16,MAY,no
+Japan,2013,0.17,MAY,no
+Kenya,2013,0.02,MAY,no
+Cambodia,2013,0.22,MAY,no
+Korea (the Republic of),2013,0.12,MAY,no
+Kazakhstan,2013,0.26,MAY,no
+Sri Lanka,2013,0.02,MAY,no
+Lithuania,2013,0.10,MAY,no
+Morocco,2013,0.07,MAY,no
+Madagascar,2013,0.07,MAY,no
+Mexico,2013,0.11,MAY,no
+Malaysia,2013,0.05,MAY,no
+Nigeria,2013,0.06,MAY,no
+Nicaragua,2013,0.12,MAY,no
+Netherlands (the),2013,0.11,MAY,no
+Norway,2013,0.00,MAY,no
+New Zealand,2013,0.08,MAY,no
+Panama,2013,0.23,MAY,no
+Peru,2013,0.03,MAY,no
+Philippines (the),2013,0.08,MAY,no
+Poland,2013,0.09,MAY,no
+Portugal,2013,0.16,MAY,no
+Serbia,2013,0.12,MAY,no
+Russian Federation (the),2013,0.17,MAY,no
+Sweden,2013,0.12,MAY,no
+Singapore,2013,0.14,MAY,no
+Slovakia,2013,0.18,MAY,no
+Turkey,2013,0.39,MAY,no
+Trinidad and Tobago,2013,0.15,MAY,no
+Taiwan ,2013,0.16,MAY,no
+"Tanzania, United Republic of",2013,0.12,MAY,no
+Ukraine,2013,0.37,MAY,no
+United States of America (the),2013,0.14,MAY,no
+Venezuela (Bolivarian Republic of),2013,0.07,MAY,no
+Vietnam,2013,0.08,MAY,no
+South Africa,2013,0.08,MAY,no
+Argentina,2014,0.14,MAR,no
+Austria,2014,0.07,MAR,no
+Australia,2014,0.10,MAR,no
+Begium,2014,0.11,MAR,no
+Bulgaria,2014,0.04,MAR,no
+Bolivia (Plurinational State of),2014,0.16,MAR,no
+Brazil,2014,0.06,MAR,no
+Botswana,2014,0.03,MAR,no
+Belize,2014,0.07,MAR,no
+Canada,2014,0.03,MAR,no
+Switzerland,2014,0.02,MAR,no
+Chile,2014,0.08,MAR,no
+China,2014,0.05,MAR,no
+Colombia,2014,0.04,MAR,no
+Costa Rica,2014,0.31,MAR,no
+Cuba,2014,0.03,MAR,no
+Czechia,2014,0.02,MAR,no
+Germany,2014,0.04,MAR,no
+Denmark,2014,0.03,MAR,no
+Dominican Republic (the),2014,0.05,MAR,no
+Ecuador,2014,0.10,MAR,no
+Egypt,2014,0.00,MAR,no
+Spain,2014,0.13,MAR,no
+Finland,2014,0.06,MAR,no
+France,2014,0.05,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2014,0.06,MAR,no
+Greece,2014,0.05,MAR,no
+Hong Kong,2014,0.11,MAR,no
+Honduras,2014,0.07,MAR,no
+Hungary,2014,0.06,MAR,no
+Indonesia,2014,0.08,MAR,no
+Ireland,2014,0.00,MAR,no
+Israel,2014,0.13,MAR,no
+India,2014,0.18,MAR,no
+Italy,2014,0.07,MAR,no
+Japan,2014,0.15,MAR,no
+Kenya,2014,0.04,MAR,no
+Cambodia,2014,0.05,MAR,no
+Korea (the Republic of),2014,0.03,MAR,no
+Kazakhstan,2014,0.04,MAR,no
+Sri Lanka,2014,0.01,MAR,no
+Lithuania,2014,0.09,MAR,no
+Morocco,2014,0.34,MAR,no
+Madagascar,2014,0.18,MAR,no
+Mexico,2014,0.10,MAR,no
+Malaysia,2014,0.27,MAR,no
+Nigeria,2014,0.17,MAR,no
+Nicaragua,2014,0.28,MAR,no
+Netherlands (the),2014,0.05,MAR,no
+Norway,2014,0.72,MAR,no
+New Zealand,2014,0.13,MAR,no
+Panama,2014,0.22,MAR,no
+Peru,2014,0.13,MAR,no
+Philippines (the),2014,0.01,MAR,no
+Poland,2014,0.07,MAR,no
+Portugal,2014,0.05,MAR,no
+Serbia,2014,0.06,MAR,no
+Russian Federation (the),2014,0.02,MAR,no
+Sweden,2014,0.03,MAR,no
+Singapore,2014,0.07,MAR,no
+Slovakia,2014,0.15,MAR,no
+Turkey,2014,0.02,MAR,no
+Trinidad and Tobago,2014,0.06,MAR,no
+Taiwan ,2014,0.13,MAR,no
+"Tanzania, United Republic of",2014,0.07,MAR,no
+Ukraine,2014,0.08,MAR,no
+United States of America (the),2014,0.09,MAR,no
+Venezuela (Bolivarian Republic of),2014,0.10,MAR,no
+Vietnam,2014,0.27,MAR,no
+South Africa,2014,0.11,MAR,no
+Argentina,2014,0.10,APR,no
+Austria,2014,0.12,APR,no
+Australia,2014,0.09,APR,no
+Begium,2014,0.23,APR,no
+Bulgaria,2014,0.07,APR,no
+Bolivia (Plurinational State of),2014,0.06,APR,no
+Brazil,2014,0.11,APR,no
+Botswana,2014,0.06,APR,no
+Belize,2014,0.12,APR,no
+Canada,2014,0.06,APR,no
+Switzerland,2014,0.04,APR,no
+Chile,2014,0.06,APR,no
+China,2014,0.05,APR,no
+Colombia,2014,0.08,APR,no
+Costa Rica,2014,0.08,APR,no
+Cuba,2014,0.01,APR,no
+Czechia,2014,0.13,APR,no
+Germany,2014,0.07,APR,no
+Denmark,2014,0.08,APR,no
+Dominican Republic (the),2014,0.02,APR,no
+Ecuador,2014,0.04,APR,no
+Egypt,2014,0.02,APR,no
+Spain,2014,0.11,APR,no
+Finland,2014,0.08,APR,no
+France,2014,0.07,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2014,0.10,APR,no
+Greece,2014,0.10,APR,no
+Hong Kong,2014,0.11,APR,no
+Honduras,2014,0.42,APR,no
+Hungary,2014,0.24,APR,no
+Indonesia,2014,0.04,APR,no
+Ireland,2014,0.03,APR,no
+Israel,2014,0.12,APR,no
+India,2014,0.07,APR,no
+Italy,2014,0.16,APR,no
+Japan,2014,0.10,APR,no
+Kenya,2014,0.00,APR,no
+Cambodia,2014,0.02,APR,no
+Korea (the Republic of),2014,0.07,APR,no
+Kazakhstan,2014,0.04,APR,no
+Sri Lanka,2014,0.34,APR,no
+Lithuania,2014,0.12,APR,no
+Morocco,2014,0.34,APR,no
+Madagascar,2014,0.25,APR,no
+Mexico,2014,0.12,APR,no
+Malaysia,2014,0.05,APR,no
+Nigeria,2014,0.08,APR,no
+Nicaragua,2014,0.27,APR,no
+Netherlands (the),2014,0.09,APR,no
+Norway,2014,0.03,APR,no
+New Zealand,2014,0.17,APR,no
+Panama,2014,0.07,APR,no
+Peru,2014,0.03,APR,no
+Philippines (the),2014,0.10,APR,no
+Poland,2014,0.12,APR,no
+Portugal,2014,0.24,APR,no
+Serbia,2014,0.19,APR,no
+Russian Federation (the),2014,0.07,APR,no
+Sweden,2014,0.15,APR,no
+Singapore,2014,0.11,APR,no
+Slovakia,2014,0.14,APR,no
+Turkey,2014,0.21,APR,no
+Trinidad and Tobago,2014,0.36,APR,no
+Taiwan ,2014,0.09,APR,no
+"Tanzania, United Republic of",2014,0.04,APR,no
+Ukraine,2014,0.15,APR,no
+United States of America (the),2014,0.12,APR,no
+Venezuela (Bolivarian Republic of),2014,0.13,APR,no
+Vietnam,2014,0.15,APR,no
+South Africa,2014,0.11,APR,no
+Argentina,2014,0.06,MAY,no
+Austria,2014,0.18,MAY,no
+Australia,2014,0.08,MAY,no
+Begium,2014,0.21,MAY,no
+Bulgaria,2014,0.04,MAY,no
+Bolivia (Plurinational State of),2014,0.18,MAY,no
+Brazil,2014,0.15,MAY,no
+Botswana,2014,0.14,MAY,no
+Belize,2014,0.13,MAY,no
+Canada,2014,0.14,MAY,no
+Switzerland,2014,0.19,MAY,no
+Chile,2014,0.04,MAY,no
+China,2014,0.06,MAY,no
+Colombia,2014,0.21,MAY,no
+Costa Rica,2014,0.13,MAY,no
+Cuba,2014,0.07,MAY,no
+Czechia,2014,0.23,MAY,no
+Germany,2014,0.13,MAY,no
+Denmark,2014,0.16,MAY,no
+Dominican Republic (the),2014,0.07,MAY,no
+Ecuador,2014,0.22,MAY,no
+Egypt,2014,0.15,MAY,no
+Spain,2014,0.18,MAY,no
+Finland,2014,0.16,MAY,no
+France,2014,0.19,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2014,0.14,MAY,no
+Greece,2014,0.16,MAY,no
+Hong Kong,2014,0.16,MAY,no
+Honduras,2014,0.17,MAY,no
+Hungary,2014,0.31,MAY,no
+Indonesia,2014,0.53,MAY,no
+Ireland,2014,0.01,MAY,no
+Israel,2014,0.15,MAY,no
+India,2014,0.11,MAY,no
+Italy,2014,0.18,MAY,no
+Japan,2014,0.17,MAY,no
+Kenya,2014,0.39,MAY,no
+Cambodia,2014,0.01,MAY,no
+Korea (the Republic of),2014,0.18,MAY,no
+Kazakhstan,2014,0.15,MAY,no
+Sri Lanka,2014,0.05,MAY,no
+Lithuania,2014,0.21,MAY,no
+Morocco,2014,0.16,MAY,no
+Madagascar,2014,0.09,MAY,no
+Mexico,2014,0.09,MAY,no
+Malaysia,2014,0.07,MAY,no
+Nigeria,2014,0.13,MAY,no
+Nicaragua,2014,0.17,MAY,no
+Netherlands (the),2014,0.17,MAY,no
+Norway,2014,0.05,MAY,no
+New Zealand,2014,0.12,MAY,no
+Panama,2014,0.03,MAY,no
+Peru,2014,0.05,MAY,no
+Philippines (the),2014,0.19,MAY,no
+Poland,2014,0.08,MAY,no
+Portugal,2014,0.11,MAY,no
+Serbia,2014,0.20,MAY,no
+Russian Federation (the),2014,0.17,MAY,no
+Sweden,2014,0.25,MAY,no
+Singapore,2014,0.13,MAY,no
+Slovakia,2014,0.22,MAY,no
+Turkey,2014,0.29,MAY,no
+Trinidad and Tobago,2014,0.19,MAY,no
+Taiwan ,2014,0.11,MAY,no
+"Tanzania, United Republic of",2014,0.13,MAY,no
+Ukraine,2014,0.16,MAY,no
+United States of America (the),2014,0.16,MAY,no
+Venezuela (Bolivarian Republic of),2014,0.15,MAY,no
+Vietnam,2014,0.07,MAY,no
+South Africa,2014,0.12,MAY,no
+Argentina,2015,0.12,MAR,no
+Austria,2015,0.09,MAR,no
+Australia,2015,0.13,MAR,no
+Begium,2015,0.06,MAR,no
+Bulgaria,2015,0.03,MAR,no
+Bolivia (Plurinational State of),2015,0.15,MAR,no
+Brazil,2015,0.12,MAR,no
+Botswana,2015,0.11,MAR,no
+Belize,2015,0.33,MAR,no
+Canada,2015,0.03,MAR,no
+Switzerland,2015,0.02,MAR,no
+Chile,2015,0.07,MAR,no
+China,2015,0.03,MAR,no
+Colombia,2015,0.11,MAR,no
+Costa Rica,2015,0.29,MAR,no
+Cuba,2015,0.25,MAR,no
+Czechia,2015,0.01,MAR,no
+Germany,2015,0.08,MAR,no
+Denmark,2015,0.04,MAR,no
+Dominican Republic (the),2015,0.32,MAR,no
+Ecuador,2015,0.17,MAR,no
+Egypt,2015,0.00,MAR,no
+Spain,2015,0.09,MAR,no
+Finland,2015,0.01,MAR,no
+France,2015,0.04,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2015,0.05,MAR,no
+Greece,2015,0.13,MAR,no
+Hong Kong,2015,0.09,MAR,no
+Honduras,2015,0.09,MAR,no
+Hungary,2015,0.03,MAR,no
+Indonesia,2015,0.03,MAR,no
+Ireland,2015,0.07,MAR,no
+Israel,2015,0.29,MAR,no
+India,2015,0.13,MAR,no
+Italy,2015,0.04,MAR,no
+Japan,2015,0.04,MAR,no
+Kenya,2015,0.07,MAR,no
+Cambodia,2015,0.16,MAR,no
+Korea (the Republic of),2015,0.06,MAR,no
+Kazakhstan,2015,0.03,MAR,no
+Sri Lanka,2015,0.19,MAR,no
+Lithuania,2015,0.06,MAR,no
+Morocco,2015,0.06,MAR,no
+Madagascar,2015,0.06,MAR,no
+Mexico,2015,0.10,MAR,no
+Malaysia,2015,0.09,MAR,no
+Nigeria,2015,0.02,MAR,no
+Nicaragua,2015,0.01,MAR,no
+Netherlands (the),2015,0.02,MAR,no
+Norway,2015,0.10,MAR,no
+New Zealand,2015,0.12,MAR,no
+Panama,2015,0.15,MAR,no
+Peru,2015,0.13,MAR,no
+Philippines (the),2015,0.18,MAR,no
+Poland,2015,0.01,MAR,no
+Portugal,2015,0.09,MAR,no
+Serbia,2015,0.05,MAR,no
+Russian Federation (the),2015,0.02,MAR,no
+Sweden,2015,0.08,MAR,no
+Singapore,2015,0.08,MAR,no
+Slovakia,2015,0.05,MAR,no
+Turkey,2015,0.03,MAR,no
+Trinidad and Tobago,2015,0.06,MAR,no
+Taiwan ,2015,0.05,MAR,no
+"Tanzania, United Republic of",2015,0.22,MAR,no
+Ukraine,2015,0.07,MAR,no
+United States of America (the),2015,0.08,MAR,no
+Venezuela (Bolivarian Republic of),2015,0.21,MAR,no
+Vietnam,2015,0.07,MAR,no
+South Africa,2015,0.09,MAR,no
+Argentina,2015,0.17,APR,no
+Austria,2015,0.09,APR,no
+Australia,2015,0.12,APR,no
+Begium,2015,0.37,APR,no
+Bulgaria,2015,0.03,APR,no
+Bolivia (Plurinational State of),2015,0.08,APR,no
+Brazil,2015,0.12,APR,no
+Botswana,2015,0.12,APR,no
+Belize,2015,0.01,APR,no
+Canada,2015,0.05,APR,no
+Switzerland,2015,0.05,APR,no
+Chile,2015,0.06,APR,no
+China,2015,0.06,APR,no
+Colombia,2015,0.11,APR,no
+Costa Rica,2015,0.08,APR,no
+Cuba,2015,0.20,APR,no
+Czechia,2015,0.04,APR,no
+Germany,2015,0.12,APR,no
+Denmark,2015,0.08,APR,no
+Dominican Republic (the),2015,0.09,APR,no
+Ecuador,2015,0.04,APR,no
+Egypt,2015,0.16,APR,no
+Spain,2015,0.16,APR,no
+Finland,2015,0.04,APR,no
+France,2015,0.12,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2015,0.11,APR,no
+Greece,2015,0.17,APR,no
+Hong Kong,2015,0.13,APR,no
+Honduras,2015,0.11,APR,no
+Hungary,2015,0.11,APR,no
+Indonesia,2015,0.03,APR,no
+Ireland,2015,0.19,APR,no
+Israel,2015,0.15,APR,no
+India,2015,0.08,APR,no
+Italy,2015,0.08,APR,no
+Japan,2015,0.06,APR,no
+Kenya,2015,0.11,APR,no
+Cambodia,2015,0.03,APR,no
+Korea (the Republic of),2015,0.05,APR,no
+Kazakhstan,2015,0.10,APR,no
+Sri Lanka,2015,0.17,APR,no
+Lithuania,2015,0.08,APR,no
+Morocco,2015,0.33,APR,no
+Madagascar,2015,0.06,APR,no
+Mexico,2015,0.11,APR,no
+Malaysia,2015,0.17,APR,no
+Nigeria,2015,0.11,APR,no
+Nicaragua,2015,0.07,APR,no
+Netherlands (the),2015,0.12,APR,no
+Norway,2015,0.12,APR,no
+New Zealand,2015,0.10,APR,no
+Panama,2015,0.18,APR,no
+Peru,2015,0.02,APR,no
+Philippines (the),2015,0.10,APR,no
+Poland,2015,0.07,APR,no
+Portugal,2015,0.13,APR,no
+Serbia,2015,0.33,APR,no
+Russian Federation (the),2015,0.05,APR,no
+Sweden,2015,0.17,APR,no
+Singapore,2015,0.09,APR,no
+Slovakia,2015,0.16,APR,no
+Turkey,2015,0.12,APR,no
+Trinidad and Tobago,2015,0.03,APR,no
+Taiwan ,2015,0.19,APR,no
+"Tanzania, United Republic of",2015,0.02,APR,no
+Ukraine,2015,0.17,APR,no
+United States of America (the),2015,0.12,APR,no
+Venezuela (Bolivarian Republic of),2015,0.17,APR,no
+Vietnam,2015,0.15,APR,no
+South Africa,2015,0.08,APR,no
+Argentina,2015,0.11,MAY,no
+Austria,2015,0.20,MAY,no
+Australia,2015,0.09,MAY,no
+Begium,2015,0.11,MAY,no
+Bulgaria,2015,0.02,MAY,no
+Bolivia (Plurinational State of),2015,0.04,MAY,no
+Brazil,2015,0.08,MAY,no
+Botswana,2015,0.05,MAY,no
+Belize,2015,0.01,MAY,no
+Canada,2015,0.17,MAY,no
+Switzerland,2015,0.17,MAY,no
+Chile,2015,0.08,MAY,no
+China,2015,0.07,MAY,no
+Colombia,2015,0.14,MAY,no
+Costa Rica,2015,0.07,MAY,no
+Cuba,2015,0.09,MAY,no
+Czechia,2015,0.13,MAY,no
+Germany,2015,0.17,MAY,no
+Denmark,2015,0.08,MAY,no
+Dominican Republic (the),2015,0.24,MAY,no
+Ecuador,2015,0.05,MAY,no
+Egypt,2015,0.01,MAY,no
+Spain,2015,0.17,MAY,no
+Finland,2015,0.22,MAY,no
+France,2015,0.16,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2015,0.16,MAY,no
+Greece,2015,0.10,MAY,no
+Hong Kong,2015,0.17,MAY,no
+Honduras,2015,0.05,MAY,no
+Hungary,2015,0.04,MAY,no
+Indonesia,2015,0.03,MAY,no
+Ireland,2015,0.15,MAY,no
+Israel,2015,0.06,MAY,no
+India,2015,0.20,MAY,no
+Italy,2015,0.17,MAY,no
+Japan,2015,0.13,MAY,no
+Kenya,2015,0.07,MAY,no
+Cambodia,2015,0.04,MAY,no
+Korea (the Republic of),2015,0.17,MAY,no
+Kazakhstan,2015,0.64,MAY,no
+Sri Lanka,2015,0.05,MAY,no
+Lithuania,2015,0.22,MAY,no
+Morocco,2015,0.05,MAY,no
+Madagascar,2015,0.05,MAY,no
+Mexico,2015,0.14,MAY,no
+Malaysia,2015,0.08,MAY,no
+Nigeria,2015,0.26,MAY,no
+Nicaragua,2015,0.13,MAY,no
+Netherlands (the),2015,0.23,MAY,no
+Norway,2015,0.17,MAY,no
+New Zealand,2015,0.10,MAY,no
+Panama,2015,0.07,MAY,no
+Peru,2015,0.05,MAY,no
+Philippines (the),2015,0.06,MAY,no
+Poland,2015,0.11,MAY,no
+Portugal,2015,0.25,MAY,no
+Serbia,2015,0.11,MAY,no
+Russian Federation (the),2015,0.17,MAY,no
+Sweden,2015,0.17,MAY,no
+Singapore,2015,0.28,MAY,no
+Slovakia,2015,0.21,MAY,no
+Turkey,2015,0.70,MAY,no
+Trinidad and Tobago,2015,0.03,MAY,no
+Taiwan ,2015,0.20,MAY,no
+"Tanzania, United Republic of",2015,0.03,MAY,no
+Ukraine,2015,0.38,MAY,no
+United States of America (the),2015,0.16,MAY,no
+Venezuela (Bolivarian Republic of),2015,0.14,MAY,no
+Vietnam,2015,0.11,MAY,no
+South Africa,2015,0.12,MAY,no
+Argentina,2016,0.12,MAR,no
+Austria,2016,0.05,MAR,no
+Australia,2016,0.12,MAR,no
+Begium,2016,0.08,MAR,no
+Bulgaria,2016,0.12,MAR,no
+Bolivia (Plurinational State of),2016,0.19,MAR,no
+Brazil,2016,0.08,MAR,no
+Botswana,2016,0.01,MAR,no
+Belize,2016,0.23,MAR,no
+Canada,2016,0.04,MAR,no
+Switzerland,2016,0.04,MAR,no
+Chile,2016,0.37,MAR,no
+China,2016,0.03,MAR,no
+Colombia,2016,0.11,MAR,no
+Costa Rica,2016,0.17,MAR,no
+Cuba,2016,0.14,MAR,no
+Czechia,2016,0.08,MAR,no
+Germany,2016,0.04,MAR,no
+Denmark,2016,0.06,MAR,no
+Dominican Republic (the),2016,0.06,MAR,no
+Ecuador,2016,0.09,MAR,no
+Egypt,2016,0.02,MAR,no
+Spain,2016,0.10,MAR,no
+Finland,2016,0.03,MAR,no
+France,2016,0.06,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2016,0.08,MAR,no
+Greece,2016,0.05,MAR,no
+Hong Kong,2016,0.06,MAR,no
+Honduras,2016,0.16,MAR,no
+Hungary,2016,0.01,MAR,no
+Indonesia,2016,0.05,MAR,no
+Ireland,2016,0.02,MAR,no
+Israel,2016,0.18,MAR,no
+India,2016,0.12,MAR,no
+Italy,2016,0.07,MAR,no
+Japan,2016,0.13,MAR,no
+Kenya,2016,0.15,MAR,no
+Cambodia,2016,0.02,MAR,no
+Korea (the Republic of),2016,0.05,MAR,no
+Kazakhstan,2016,0.00,MAR,no
+Sri Lanka,2016,0.16,MAR,no
+Lithuania,2016,0.01,MAR,no
+Morocco,2016,0.16,MAR,no
+Madagascar,2016,0.16,MAR,no
+Mexico,2016,0.11,MAR,no
+Malaysia,2016,0.18,MAR,no
+Nigeria,2016,0.11,MAR,no
+Nicaragua,2016,0.28,MAR,no
+Netherlands (the),2016,0.03,MAR,no
+Norway,2016,0.00,MAR,no
+New Zealand,2016,0.13,MAR,no
+Panama,2016,0.13,MAR,no
+Peru,2016,0.08,MAR,no
+Philippines (the),2016,0.17,MAR,no
+Poland,2016,0.05,MAR,no
+Portugal,2016,0.09,MAR,no
+Serbia,2016,0.10,MAR,no
+Russian Federation (the),2016,0.03,MAR,no
+Sweden,2016,0.03,MAR,no
+Singapore,2016,0.06,MAR,no
+Slovakia,2016,0.09,MAR,no
+Turkey,2016,0.01,MAR,no
+Trinidad and Tobago,2016,0.08,MAR,no
+Taiwan ,2016,0.07,MAR,no
+"Tanzania, United Republic of",2016,0.03,MAR,no
+Ukraine,2016,0.01,MAR,no
+United States of America (the),2016,0.09,MAR,no
+Venezuela (Bolivarian Republic of),2016,0.14,MAR,no
+Vietnam,2016,0.08,MAR,no
+South Africa,2016,0.11,MAR,no
+Argentina,2016,0.08,APR,no
+Austria,2016,0.09,APR,no
+Australia,2016,0.10,APR,no
+Begium,2016,0.03,APR,no
+Bulgaria,2016,0.13,APR,no
+Bolivia (Plurinational State of),2016,0.16,APR,no
+Brazil,2016,0.08,APR,no
+Botswana,2016,0.19,APR,no
+Belize,2016,0.03,APR,no
+Canada,2016,0.08,APR,no
+Switzerland,2016,0.09,APR,no
+Chile,2016,0.07,APR,no
+China,2016,0.06,APR,no
+Colombia,2016,0.17,APR,no
+Costa Rica,2016,0.04,APR,no
+Cuba,2016,0.36,APR,no
+Czechia,2016,0.04,APR,no
+Germany,2016,0.10,APR,no
+Denmark,2016,0.13,APR,no
+Dominican Republic (the),2016,0.06,APR,no
+Ecuador,2016,0.05,APR,no
+Egypt,2016,0.01,APR,no
+Spain,2016,0.16,APR,no
+Finland,2016,0.05,APR,no
+France,2016,0.13,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2016,0.08,APR,no
+Greece,2016,0.16,APR,no
+Hong Kong,2016,0.08,APR,no
+Honduras,2016,0.18,APR,no
+Hungary,2016,0.07,APR,no
+Indonesia,2016,0.10,APR,no
+Ireland,2016,0.02,APR,no
+Israel,2016,0.14,APR,no
+India,2016,0.11,APR,no
+Italy,2016,0.12,APR,no
+Japan,2016,0.17,APR,no
+Kenya,2016,0.09,APR,no
+Cambodia,2016,0.02,APR,no
+Korea (the Republic of),2016,0.09,APR,no
+Kazakhstan,2016,0.03,APR,no
+Sri Lanka,2016,0.18,APR,no
+Lithuania,2016,0.03,APR,no
+Morocco,2016,0.68,APR,no
+Madagascar,2016,0.15,APR,no
+Mexico,2016,0.09,APR,no
+Malaysia,2016,0.13,APR,no
+Nigeria,2016,0.05,APR,no
+Nicaragua,2016,0.05,APR,no
+Netherlands (the),2016,0.17,APR,no
+Norway,2016,0.08,APR,no
+New Zealand,2016,0.12,APR,no
+Panama,2016,0.19,APR,no
+Peru,2016,0.07,APR,no
+Philippines (the),2016,0.23,APR,no
+Poland,2016,0.06,APR,no
+Portugal,2016,0.15,APR,no
+Serbia,2016,0.09,APR,no
+Russian Federation (the),2016,0.09,APR,no
+Sweden,2016,0.22,APR,no
+Singapore,2016,0.14,APR,no
+Slovakia,2016,0.19,APR,no
+Turkey,2016,0.10,APR,no
+Trinidad and Tobago,2016,0.20,APR,no
+Taiwan ,2016,0.13,APR,no
+"Tanzania, United Republic of",2016,0.03,APR,no
+Ukraine,2016,0.17,APR,no
+United States of America (the),2016,0.14,APR,no
+Venezuela (Bolivarian Republic of),2016,0.11,APR,no
+Vietnam,2016,0.09,APR,no
+South Africa,2016,0.09,APR,no
+Argentina,2016,0.08,MAY,no
+Austria,2016,0.13,MAY,no
+Australia,2016,0.09,MAY,no
+Begium,2016,0.06,MAY,no
+Bulgaria,2016,0.13,MAY,no
+Bolivia (Plurinational State of),2016,0.05,MAY,no
+Brazil,2016,0.08,MAY,no
+Botswana,2016,0.01,MAY,no
+Belize,2016,0.21,MAY,no
+Canada,2016,0.16,MAY,no
+Switzerland,2016,0.12,MAY,no
+Chile,2016,0.03,MAY,no
+China,2016,0.05,MAY,no
+Colombia,2016,0.12,MAY,no
+Costa Rica,2016,0.03,MAY,no
+Cuba,2016,0.00,MAY,no
+Czechia,2016,0.22,MAY,no
+Germany,2016,0.12,MAY,no
+Denmark,2016,0.17,MAY,no
+Dominican Republic (the),2016,0.05,MAY,no
+Ecuador,2016,0.07,MAY,no
+Egypt,2016,0.00,MAY,no
+Spain,2016,0.15,MAY,no
+Finland,2016,0.14,MAY,no
+France,2016,0.16,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2016,0.16,MAY,no
+Greece,2016,0.18,MAY,no
+Hong Kong,2016,0.18,MAY,no
+Honduras,2016,0.04,MAY,no
+Hungary,2016,0.29,MAY,no
+Indonesia,2016,0.02,MAY,no
+Ireland,2016,0.05,MAY,no
+Israel,2016,0.12,MAY,no
+India,2016,0.10,MAY,no
+Italy,2016,0.17,MAY,no
+Japan,2016,0.16,MAY,no
+Kenya,2016,0.10,MAY,no
+Cambodia,2016,0.01,MAY,no
+Korea (the Republic of),2016,0.14,MAY,no
+Kazakhstan,2016,0.17,MAY,no
+Sri Lanka,2016,0.01,MAY,no
+Lithuania,2016,0.07,MAY,no
+Morocco,2016,0.03,MAY,no
+Madagascar,2016,0.11,MAY,no
+Mexico,2016,0.10,MAY,no
+Malaysia,2016,0.11,MAY,no
+Nigeria,2016,0.09,MAY,no
+Nicaragua,2016,0.07,MAY,no
+Netherlands (the),2016,0.10,MAY,no
+Norway,2016,0.17,MAY,no
+New Zealand,2016,0.09,MAY,no
+Panama,2016,0.04,MAY,no
+Peru,2016,0.06,MAY,no
+Philippines (the),2016,0.26,MAY,no
+Poland,2016,0.20,MAY,no
+Portugal,2016,0.19,MAY,no
+Serbia,2016,0.09,MAY,no
+Russian Federation (the),2016,0.18,MAY,no
+Sweden,2016,0.13,MAY,no
+Singapore,2016,0.13,MAY,no
+Slovakia,2016,0.17,MAY,no
+Turkey,2016,0.10,MAY,no
+Trinidad and Tobago,2016,0.02,MAY,no
+Taiwan ,2016,0.23,MAY,no
+"Tanzania, United Republic of",2016,0.04,MAY,no
+Ukraine,2016,0.17,MAY,no
+United States of America (the),2016,0.16,MAY,no
+Venezuela (Bolivarian Republic of),2016,0.08,MAY,no
+Vietnam,2016,0.11,MAY,no
+South Africa,2016,0.08,MAY,no
+Argentina,2017,0.13,MAR,no
+Austria,2017,0.03,MAR,no
+Australia,2017,0.08,MAR,no
+Begium,2017,0.15,MAR,no
+Bulgaria,2017,0.11,MAR,no
+Bolivia (Plurinational State of),2017,0.15,MAR,no
+Brazil,2017,0.05,MAR,no
+Botswana,2017,0.11,MAR,no
+Belize,2017,0.15,MAR,no
+Canada,2017,0.02,MAR,no
+Switzerland,2017,0.07,MAR,no
+Chile,2017,0.08,MAR,no
+China,2017,0.04,MAR,no
+Colombia,2017,0.07,MAR,no
+Costa Rica,2017,0.24,MAR,no
+Cuba,2017,0.10,MAR,no
+Czechia,2017,0.05,MAR,no
+Germany,2017,0.09,MAR,no
+Denmark,2017,0.05,MAR,no
+Dominican Republic (the),2017,0.13,MAR,no
+Ecuador,2017,0.32,MAR,no
+Egypt,2017,0.03,MAR,no
+Spain,2017,0.07,MAR,no
+Finland,2017,0.01,MAR,no
+France,2017,0.05,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2017,0.07,MAR,no
+Greece,2017,0.06,MAR,no
+Hong Kong,2017,0.10,MAR,no
+Honduras,2017,0.05,MAR,no
+Hungary,2017,0.03,MAR,no
+Indonesia,2017,0.14,MAR,no
+Ireland,2017,0.01,MAR,no
+Israel,2017,0.20,MAR,no
+India,2017,0.10,MAR,no
+Italy,2017,0.08,MAR,no
+Japan,2017,0.07,MAR,no
+Kenya,2017,0.08,MAR,no
+Cambodia,2017,0.28,MAR,no
+Korea (the Republic of),2017,0.06,MAR,no
+Kazakhstan,2017,0.03,MAR,no
+Sri Lanka,2017,0.01,MAR,no
+Lithuania,2017,0.05,MAR,no
+Morocco,2017,0.14,MAR,no
+Madagascar,2017,0.07,MAR,no
+Mexico,2017,0.12,MAR,no
+Malaysia,2017,0.10,MAR,no
+Nigeria,2017,0.12,MAR,no
+Nicaragua,2017,0.03,MAR,no
+Netherlands (the),2017,0.10,MAR,no
+Norway,2017,0.03,MAR,no
+New Zealand,2017,0.12,MAR,no
+Panama,2017,0.32,MAR,no
+Peru,2017,0.04,MAR,no
+Philippines (the),2017,0.02,MAR,no
+Poland,2017,0.04,MAR,no
+Portugal,2017,0.09,MAR,no
+Serbia,2017,0.18,MAR,no
+Russian Federation (the),2017,0.03,MAR,no
+Sweden,2017,0.01,MAR,no
+Singapore,2017,0.04,MAR,no
+Slovakia,2017,0.12,MAR,no
+Turkey,2017,0.05,MAR,no
+Trinidad and Tobago,2017,0.03,MAR,no
+Taiwan ,2017,0.08,MAR,no
+"Tanzania, United Republic of",2017,0.04,MAR,no
+Ukraine,2017,0.07,MAR,no
+United States of America (the),2017,0.09,MAR,no
+Venezuela (Bolivarian Republic of),2017,0.21,MAR,no
+Vietnam,2017,0.07,MAR,no
+South Africa,2017,0.10,MAR,no
+Argentina,2017,0.13,APR,no
+Austria,2017,0.08,APR,no
+Australia,2017,0.10,APR,no
+Begium,2017,0.11,APR,no
+Bulgaria,2017,0.21,APR,no
+Bolivia (Plurinational State of),2017,0.06,APR,no
+Brazil,2017,0.06,APR,no
+Botswana,2017,0.15,APR,no
+Belize,2017,0.02,APR,no
+Canada,2017,0.06,APR,no
+Switzerland,2017,0.12,APR,no
+Chile,2017,0.10,APR,no
+China,2017,0.09,APR,no
+Colombia,2017,0.10,APR,no
+Costa Rica,2017,0.08,APR,no
+Cuba,2017,0.14,APR,no
+Czechia,2017,0.18,APR,no
+Germany,2017,0.11,APR,no
+Denmark,2017,0.05,APR,no
+Dominican Republic (the),2017,0.09,APR,no
+Ecuador,2017,0.10,APR,no
+Egypt,2017,0.04,APR,no
+Spain,2017,0.18,APR,no
+Finland,2017,0.03,APR,no
+France,2017,0.14,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2017,0.10,APR,no
+Greece,2017,0.14,APR,no
+Hong Kong,2017,0.16,APR,no
+Honduras,2017,0.13,APR,no
+Hungary,2017,0.17,APR,no
+Indonesia,2017,0.21,APR,no
+Ireland,2017,0.06,APR,no
+Israel,2017,0.13,APR,no
+India,2017,0.09,APR,no
+Italy,2017,0.15,APR,no
+Japan,2017,0.10,APR,no
+Kenya,2017,0.03,APR,no
+Cambodia,2017,0.00,APR,no
+Korea (the Republic of),2017,0.08,APR,no
+Kazakhstan,2017,0.04,APR,no
+Sri Lanka,2017,0.04,APR,no
+Lithuania,2017,0.11,APR,no
+Morocco,2017,0.04,APR,no
+Madagascar,2017,0.09,APR,no
+Mexico,2017,0.12,APR,no
+Malaysia,2017,0.10,APR,no
+Nigeria,2017,0.09,APR,no
+Nicaragua,2017,0.12,APR,no
+Netherlands (the),2017,0.10,APR,no
+Norway,2017,0.04,APR,no
+New Zealand,2017,0.17,APR,no
+Panama,2017,0.11,APR,no
+Peru,2017,0.03,APR,no
+Philippines (the),2017,0.04,APR,no
+Poland,2017,0.09,APR,no
+Portugal,2017,0.22,APR,no
+Serbia,2017,0.16,APR,no
+Russian Federation (the),2017,0.09,APR,no
+Sweden,2017,0.03,APR,no
+Singapore,2017,0.09,APR,no
+Slovakia,2017,0.13,APR,no
+Turkey,2017,0.08,APR,no
+Trinidad and Tobago,2017,0.05,APR,no
+Taiwan ,2017,0.17,APR,no
+"Tanzania, United Republic of",2017,0.02,APR,no
+Ukraine,2017,0.20,APR,no
+United States of America (the),2017,0.18,APR,no
+Venezuela (Bolivarian Republic of),2017,0.19,APR,no
+Vietnam,2017,0.29,APR,no
+South Africa,2017,0.11,APR,no
+Argentina,2017,0.05,MAY,no
+Austria,2017,0.15,MAY,no
+Australia,2017,0.09,MAY,no
+Begium,2017,0.15,MAY,no
+Bulgaria,2017,0.12,MAY,no
+Bolivia (Plurinational State of),2017,0.06,MAY,no
+Brazil,2017,0.08,MAY,no
+Botswana,2017,0.15,MAY,no
+Belize,2017,0.05,MAY,no
+Canada,2017,0.13,MAY,no
+Switzerland,2017,0.17,MAY,no
+Chile,2017,0.06,MAY,no
+China,2017,0.16,MAY,no
+Colombia,2017,0.11,MAY,no
+Costa Rica,2017,0.09,MAY,no
+Cuba,2017,0.00,MAY,no
+Czechia,2017,0.17,MAY,no
+Germany,2017,0.16,MAY,no
+Denmark,2017,0.11,MAY,no
+Dominican Republic (the),2017,0.05,MAY,no
+Ecuador,2017,0.04,MAY,no
+Egypt,2017,0.02,MAY,no
+Spain,2017,0.17,MAY,no
+Finland,2017,0.11,MAY,no
+France,2017,0.15,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2017,0.12,MAY,no
+Greece,2017,0.29,MAY,no
+Hong Kong,2017,0.14,MAY,no
+Honduras,2017,0.05,MAY,no
+Hungary,2017,0.15,MAY,no
+Indonesia,2017,0.06,MAY,no
+Ireland,2017,0.09,MAY,no
+Israel,2017,0.13,MAY,no
+India,2017,0.08,MAY,no
+Italy,2017,0.20,MAY,no
+Japan,2017,0.12,MAY,no
+Kenya,2017,0.16,MAY,no
+Cambodia,2017,0.02,MAY,no
+Korea (the Republic of),2017,0.12,MAY,no
+Kazakhstan,2017,0.09,MAY,no
+Sri Lanka,2017,0.03,MAY,no
+Lithuania,2017,0.08,MAY,no
+Morocco,2017,0.07,MAY,no
+Madagascar,2017,0.06,MAY,no
+Mexico,2017,0.11,MAY,no
+Malaysia,2017,0.05,MAY,no
+Nigeria,2017,0.19,MAY,no
+Nicaragua,2017,0.18,MAY,no
+Netherlands (the),2017,0.20,MAY,no
+Norway,2017,0.08,MAY,no
+New Zealand,2017,0.10,MAY,no
+Panama,2017,0.05,MAY,no
+Peru,2017,0.05,MAY,no
+Philippines (the),2017,0.12,MAY,no
+Poland,2017,0.14,MAY,no
+Portugal,2017,0.17,MAY,no
+Serbia,2017,0.17,MAY,no
+Russian Federation (the),2017,0.16,MAY,no
+Sweden,2017,0.13,MAY,no
+Singapore,2017,0.15,MAY,no
+Slovakia,2017,0.19,MAY,no
+Turkey,2017,0.17,MAY,no
+Trinidad and Tobago,2017,0.01,MAY,no
+Taiwan ,2017,0.14,MAY,no
+"Tanzania, United Republic of",2017,0.02,MAY,no
+Ukraine,2017,0.27,MAY,no
+United States of America (the),2017,0.14,MAY,no
+Venezuela (Bolivarian Republic of),2017,0.08,MAY,no
+Vietnam,2017,0.12,MAY,no
+South Africa,2017,0.12,MAY,no
+Argentina,2018,0.13,MAR,no
+Austria,2018,0.02,MAR,no
+Australia,2018,0.11,MAR,no
+Begium,2018,0.05,MAR,no
+Bulgaria,2018,0.09,MAR,no
+Bolivia (Plurinational State of),2018,0.08,MAR,no
+Brazil,2018,0.06,MAR,no
+Botswana,2018,0.10,MAR,no
+Belize,2018,0.41,MAR,no
+Canada,2018,0.03,MAR,no
+Switzerland,2018,0.05,MAR,no
+Chile,2018,0.10,MAR,no
+China,2018,0.08,MAR,no
+Colombia,2018,0.09,MAR,no
+Costa Rica,2018,0.17,MAR,no
+Cuba,2018,0.16,MAR,no
+Czechia,2018,0.02,MAR,no
+Germany,2018,0.06,MAR,no
+Denmark,2018,0.04,MAR,no
+Dominican Republic (the),2018,0.06,MAR,no
+Ecuador,2018,0.31,MAR,no
+Egypt,2018,0.12,MAR,no
+Spain,2018,0.12,MAR,no
+Finland,2018,0.01,MAR,no
+France,2018,0.04,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2018,0.03,MAR,no
+Greece,2018,0.06,MAR,no
+Hong Kong,2018,0.06,MAR,no
+Honduras,2018,0.10,MAR,no
+Hungary,2018,0.06,MAR,no
+Indonesia,2018,0.19,MAR,no
+Ireland,2018,0.04,MAR,no
+Israel,2018,0.22,MAR,no
+India,2018,0.11,MAR,no
+Italy,2018,0.06,MAR,no
+Japan,2018,0.10,MAR,no
+Kenya,2018,0.15,MAR,no
+Cambodia,2018,0.13,MAR,no
+Korea (the Republic of),2018,0.03,MAR,no
+Kazakhstan,2018,0.02,MAR,no
+Sri Lanka,2018,0.24,MAR,no
+Lithuania,2018,0.02,MAR,no
+Morocco,2018,0.37,MAR,no
+Madagascar,2018,0.05,MAR,no
+Mexico,2018,0.14,MAR,no
+Malaysia,2018,0.29,MAR,no
+Nigeria,2018,0.14,MAR,no
+Nicaragua,2018,0.28,MAR,no
+Netherlands (the),2018,0.11,MAR,no
+Norway,2018,0.05,MAR,no
+New Zealand,2018,0.12,MAR,no
+Panama,2018,0.17,MAR,no
+Peru,2018,0.02,MAR,no
+Philippines (the),2018,0.07,MAR,no
+Poland,2018,0.03,MAR,no
+Portugal,2018,0.05,MAR,no
+Serbia,2018,0.02,MAR,no
+Russian Federation (the),2018,0.02,MAR,no
+Sweden,2018,0.05,MAR,no
+Singapore,2018,0.10,MAR,no
+Slovakia,2018,0.04,MAR,no
+Turkey,2018,0.05,MAR,no
+Trinidad and Tobago,2018,0.36,MAR,no
+Taiwan ,2018,0.06,MAR,no
+"Tanzania, United Republic of",2018,0.05,MAR,no
+Ukraine,2018,0.04,MAR,no
+United States of America (the),2018,0.08,MAR,no
+Venezuela (Bolivarian Republic of),2018,0.09,MAR,no
+Vietnam,2018,0.07,MAR,no
+South Africa,2018,0.10,MAR,no
+Argentina,2018,0.14,APR,no
+Austria,2018,0.09,APR,no
+Australia,2018,0.12,APR,no
+Begium,2018,0.12,APR,no
+Bulgaria,2018,0.11,APR,no
+Bolivia (Plurinational State of),2018,0.10,APR,no
+Brazil,2018,0.17,APR,no
+Botswana,2018,0.22,APR,no
+Belize,2018,0.06,APR,no
+Canada,2018,0.06,APR,no
+Switzerland,2018,0.14,APR,no
+Chile,2018,0.06,APR,no
+China,2018,0.13,APR,no
+Colombia,2018,0.17,APR,no
+Costa Rica,2018,0.06,APR,no
+Cuba,2018,0.13,APR,no
+Czechia,2018,0.20,APR,no
+Germany,2018,0.13,APR,no
+Denmark,2018,0.05,APR,no
+Dominican Republic (the),2018,0.03,APR,no
+Ecuador,2018,0.08,APR,no
+Egypt,2018,0.02,APR,no
+Spain,2018,0.13,APR,no
+Finland,2018,0.06,APR,no
+France,2018,0.12,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2018,0.13,APR,no
+Greece,2018,0.17,APR,no
+Hong Kong,2018,0.29,APR,no
+Honduras,2018,0.10,APR,no
+Hungary,2018,0.16,APR,no
+Indonesia,2018,0.05,APR,no
+Ireland,2018,0.09,APR,no
+Israel,2018,0.13,APR,no
+India,2018,0.14,APR,no
+Italy,2018,0.14,APR,no
+Japan,2018,0.19,APR,no
+Kenya,2018,0.05,APR,no
+Cambodia,2018,0.05,APR,no
+Korea (the Republic of),2018,0.05,APR,no
+Kazakhstan,2018,0.17,APR,no
+Sri Lanka,2018,0.03,APR,no
+Lithuania,2018,0.12,APR,no
+Morocco,2018,0.13,APR,no
+Madagascar,2018,0.07,APR,no
+Mexico,2018,0.13,APR,no
+Malaysia,2018,0.22,APR,no
+Nigeria,2018,0.12,APR,no
+Nicaragua,2018,0.09,APR,no
+Netherlands (the),2018,0.13,APR,no
+Norway,2018,0.06,APR,no
+New Zealand,2018,0.11,APR,no
+Panama,2018,0.07,APR,no
+Peru,2018,0.15,APR,no
+Philippines (the),2018,0.09,APR,no
+Poland,2018,0.18,APR,no
+Portugal,2018,0.17,APR,no
+Serbia,2018,0.12,APR,no
+Russian Federation (the),2018,0.08,APR,no
+Sweden,2018,0.07,APR,no
+Singapore,2018,0.10,APR,no
+Slovakia,2018,0.14,APR,no
+Turkey,2018,0.12,APR,no
+Trinidad and Tobago,2018,0.03,APR,no
+Taiwan ,2018,0.09,APR,no
+"Tanzania, United Republic of",2018,0.25,APR,no
+Ukraine,2018,0.18,APR,no
+United States of America (the),2018,0.18,APR,no
+Venezuela (Bolivarian Republic of),2018,0.10,APR,no
+Vietnam,2018,0.20,APR,no
+South Africa,2018,0.11,APR,no
+Argentina,2018,0.11,MAY,no
+Austria,2018,0.17,MAY,no
+Australia,2018,0.08,MAY,no
+Begium,2018,0.19,MAY,no
+Bulgaria,2018,0.18,MAY,no
+Bolivia (Plurinational State of),2018,0.09,MAY,no
+Brazil,2018,0.12,MAY,no
+Botswana,2018,0.05,MAY,no
+Belize,2018,0.14,MAY,no
+Canada,2018,0.13,MAY,no
+Switzerland,2018,0.24,MAY,no
+Chile,2018,0.08,MAY,no
+China,2018,0.12,MAY,no
+Colombia,2018,0.08,MAY,no
+Costa Rica,2018,0.07,MAY,no
+Cuba,2018,0.13,MAY,no
+Czechia,2018,0.21,MAY,no
+Germany,2018,0.18,MAY,no
+Denmark,2018,0.14,MAY,no
+Dominican Republic (the),2018,0.09,MAY,no
+Ecuador,2018,0.07,MAY,no
+Egypt,2018,0.01,MAY,no
+Spain,2018,0.15,MAY,no
+Finland,2018,0.22,MAY,no
+France,2018,0.15,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2018,0.14,MAY,no
+Greece,2018,0.20,MAY,no
+Hong Kong,2018,0.12,MAY,no
+Honduras,2018,0.06,MAY,no
+Hungary,2018,0.28,MAY,no
+Indonesia,2018,0.03,MAY,no
+Ireland,2018,0.08,MAY,no
+Israel,2018,0.14,MAY,no
+India,2018,0.10,MAY,no
+Italy,2018,0.17,MAY,no
+Japan,2018,0.11,MAY,no
+Kenya,2018,0.04,MAY,no
+Cambodia,2018,0.04,MAY,no
+Korea (the Republic of),2018,0.16,MAY,no
+Kazakhstan,2018,0.25,MAY,no
+Sri Lanka,2018,0.05,MAY,no
+Lithuania,2018,0.20,MAY,no
+Morocco,2018,0.23,MAY,no
+Madagascar,2018,0.17,MAY,no
+Mexico,2018,0.10,MAY,no
+Malaysia,2018,0.07,MAY,no
+Nigeria,2018,0.08,MAY,no
+Nicaragua,2018,0.04,MAY,no
+Netherlands (the),2018,0.17,MAY,no
+Norway,2018,0.16,MAY,no
+New Zealand,2018,0.09,MAY,no
+Panama,2018,0.07,MAY,no
+Peru,2018,0.11,MAY,no
+Philippines (the),2018,0.57,MAY,no
+Poland,2018,0.17,MAY,no
+Portugal,2018,0.12,MAY,no
+Serbia,2018,0.19,MAY,no
+Russian Federation (the),2018,0.18,MAY,no
+Sweden,2018,0.24,MAY,no
+Singapore,2018,0.12,MAY,no
+Slovakia,2018,0.22,MAY,no
+Turkey,2018,0.06,MAY,no
+Trinidad and Tobago,2018,0.12,MAY,no
+Taiwan ,2018,0.13,MAY,no
+"Tanzania, United Republic of",2018,0.13,MAY,no
+Ukraine,2018,0.21,MAY,no
+United States of America (the),2018,0.14,MAY,no
+Venezuela (Bolivarian Republic of),2018,0.20,MAY,no
+Vietnam,2018,0.02,MAY,no
+South Africa,2018,0.11,MAY,no
+Argentina,2019,0.12,MAR,no
+Austria,2019,0.05,MAR,no
+Australia,2019,0.12,MAR,no
+Begium,2019,0.06,MAR,no
+Bulgaria,2019,0.07,MAR,no
+Bolivia (Plurinational State of),2019,0.05,MAR,no
+Brazil,2019,0.09,MAR,no
+Botswana,2019,0.14,MAR,no
+Belize,2019,0.10,MAR,no
+Canada,2019,0.03,MAR,no
+Switzerland,2019,0.06,MAR,no
+Chile,2019,0.09,MAR,no
+China,2019,0.08,MAR,no
+Colombia,2019,0.14,MAR,no
+Costa Rica,2019,0.23,MAR,no
+Cuba,2019,0.12,MAR,no
+Czechia,2019,0.04,MAR,no
+Germany,2019,0.06,MAR,no
+Denmark,2019,0.03,MAR,no
+Dominican Republic (the),2019,0.25,MAR,no
+Ecuador,2019,0.12,MAR,no
+Egypt,2019,0.05,MAR,no
+Spain,2019,0.11,MAR,no
+Finland,2019,0.03,MAR,no
+France,2019,0.05,MAR,no
+United Kingdom of Great Britain and Northern Ireland (the),2019,0.03,MAR,no
+Greece,2019,0.06,MAR,no
+Hong Kong,2019,0.08,MAR,no
+Honduras,2019,0.10,MAR,no
+Hungary,2019,0.04,MAR,no
+Indonesia,2019,0.09,MAR,no
+Ireland,2019,0.03,MAR,no
+Israel,2019,0.17,MAR,no
+India,2019,0.11,MAR,no
+Italy,2019,0.07,MAR,no
+Japan,2019,0.05,MAR,no
+Kenya,2019,0.07,MAR,no
+Cambodia,2019,0.12,MAR,no
+Korea (the Republic of),2019,0.04,MAR,no
+Kazakhstan,2019,0.02,MAR,no
+Sri Lanka,2019,0.14,MAR,no
+Lithuania,2019,0.03,MAR,no
+Morocco,2019,0.23,MAR,no
+Madagascar,2019,0.07,MAR,no
+Mexico,2019,0.11,MAR,no
+Malaysia,2019,0.07,MAR,no
+Nigeria,2019,0.25,MAR,no
+Nicaragua,2019,0.07,MAR,no
+Netherlands (the),2019,0.05,MAR,no
+Norway,2019,0.02,MAR,no
+New Zealand,2019,0.13,MAR,no
+Panama,2019,0.10,MAR,no
+Peru,2019,0.11,MAR,no
+Philippines (the),2019,0.13,MAR,no
+Poland,2019,0.03,MAR,no
+Portugal,2019,0.09,MAR,no
+Serbia,2019,0.08,MAR,no
+Russian Federation (the),2019,0.02,MAR,no
+Sweden,2019,0.03,MAR,no
+Singapore,2019,0.09,MAR,no
+Slovakia,2019,0.06,MAR,no
+Turkey,2019,0.03,MAR,no
+Trinidad and Tobago,2019,0.07,MAR,no
+Taiwan ,2019,0.08,MAR,no
+"Tanzania, United Republic of",2019,0.05,MAR,no
+Ukraine,2019,0.04,MAR,no
+United States of America (the),2019,0.08,MAR,no
+Venezuela (Bolivarian Republic of),2019,0.03,MAR,no
+Vietnam,2019,0.06,MAR,no
+South Africa,2019,0.08,MAR,no
+Argentina,2019,0.22,APR,no
+Austria,2019,0.09,APR,no
+Australia,2019,0.14,APR,no
+Begium,2019,0.11,APR,no
+Bulgaria,2019,0.09,APR,no
+Bolivia (Plurinational State of),2019,0.75,APR,no
+Brazil,2019,0.12,APR,no
+Botswana,2019,0.09,APR,no
+Belize,2019,0.12,APR,no
+Canada,2019,0.06,APR,no
+Switzerland,2019,0.09,APR,no
+Chile,2019,0.11,APR,no
+China,2019,0.10,APR,no
+Colombia,2019,0.24,APR,no
+Costa Rica,2019,0.11,APR,no
+Cuba,2019,0.12,APR,no
+Czechia,2019,0.19,APR,no
+Germany,2019,0.10,APR,no
+Denmark,2019,0.05,APR,no
+Dominican Republic (the),2019,0.09,APR,no
+Ecuador,2019,0.17,APR,no
+Egypt,2019,0.20,APR,no
+Spain,2019,0.15,APR,no
+Finland,2019,0.07,APR,no
+France,2019,0.08,APR,no
+United Kingdom of Great Britain and Northern Ireland (the),2019,0.18,APR,no
+Greece,2019,0.16,APR,no
+Hong Kong,2019,0.29,APR,no
+Honduras,2019,0.11,APR,no
+Hungary,2019,0.10,APR,no
+Indonesia,2019,0.10,APR,no
+Ireland,2019,0.05,APR,no
+Israel,2019,0.17,APR,no
+India,2019,0.08,APR,no
+Italy,2019,0.12,APR,no
+Japan,2019,0.17,APR,no
+Kenya,2019,0.14,APR,no
+Cambodia,2019,0.01,APR,no
+Korea (the Republic of),2019,0.09,APR,no
+Kazakhstan,2019,0.06,APR,no
+Sri Lanka,2019,0.34,APR,no
+Lithuania,2019,0.10,APR,no
+Morocco,2019,0.22,APR,no
+Madagascar,2019,0.15,APR,no
+Mexico,2019,0.26,APR,no
+Malaysia,2019,0.31,APR,no
+Nigeria,2019,0.08,APR,no
+Nicaragua,2019,0.24,APR,no
+Netherlands (the),2019,0.08,APR,no
+Norway,2019,0.06,APR,no
+New Zealand,2019,0.20,APR,no
+Panama,2019,0.21,APR,no
+Peru,2019,0.08,APR,no
+Philippines (the),2019,0.10,APR,no
+Poland,2019,0.05,APR,no
+Portugal,2019,0.13,APR,no
+Serbia,2019,0.15,APR,no
+Russian Federation (the),2019,0.06,APR,no
+Sweden,2019,0.06,APR,no
+Singapore,2019,0.12,APR,no
+Slovakia,2019,0.14,APR,no
+Turkey,2019,0.11,APR,no
+Trinidad and Tobago,2019,0.05,APR,no
+Taiwan ,2019,0.22,APR,no
+"Tanzania, United Republic of",2019,0.03,APR,no
+Ukraine,2019,0.10,APR,no
+United States of America (the),2019,0.18,APR,no
+Venezuela (Bolivarian Republic of),2019,0.07,APR,no
+Vietnam,2019,0.12,APR,no
+South Africa,2019,0.31,APR,no
+Argentina,2019,0.08,MAY,no
+Austria,2019,0.13,MAY,no
+Australia,2019,0.09,MAY,no
+Begium,2019,0.21,MAY,no
+Bulgaria,2019,0.20,MAY,no
+Bolivia (Plurinational State of),2019,0.03,MAY,no
+Brazil,2019,0.08,MAY,no
+Botswana,2019,0.05,MAY,no
+Belize,2019,0.19,MAY,no
+Canada,2019,0.13,MAY,no
+Switzerland,2019,0.12,MAY,no
+Chile,2019,0.08,MAY,no
+China,2019,0.16,MAY,no
+Colombia,2019,0.11,MAY,no
+Costa Rica,2019,0.06,MAY,no
+Cuba,2019,0.09,MAY,no
+Czechia,2019,0.17,MAY,no
+Germany,2019,0.13,MAY,no
+Denmark,2019,0.09,MAY,no
+Dominican Republic (the),2019,0.05,MAY,no
+Ecuador,2019,0.08,MAY,no
+Egypt,2019,0.27,MAY,no
+Spain,2019,0.12,MAY,no
+Finland,2019,0.15,MAY,no
+France,2019,0.13,MAY,no
+United Kingdom of Great Britain and Northern Ireland (the),2019,0.16,MAY,no
+Greece,2019,0.17,MAY,no
+Hong Kong,2019,0.14,MAY,no
+Honduras,2019,0.10,MAY,no
+Hungary,2019,0.11,MAY,no
+Indonesia,2019,0.07,MAY,no
+Ireland,2019,0.21,MAY,no
+Israel,2019,0.14,MAY,no
+India,2019,0.09,MAY,no
+Italy,2019,0.13,MAY,no
+Japan,2019,0.15,MAY,no
+Kenya,2019,0.05,MAY,no
+Cambodia,2019,0.06,MAY,no
+Korea (the Republic of),2019,0.18,MAY,no
+Kazakhstan,2019,0.28,MAY,no
+Sri Lanka,2019,0.03,MAY,no
+Lithuania,2019,0.19,MAY,no
+Morocco,2019,0.08,MAY,no
+Madagascar,2019,0.11,MAY,no
+Mexico,2019,0.09,MAY,no
+Malaysia,2019,0.08,MAY,no
+Nigeria,2019,0.03,MAY,no
+Nicaragua,2019,0.14,MAY,no
+Netherlands (the),2019,0.13,MAY,no
+Norway,2019,0.10,MAY,no
+New Zealand,2019,0.09,MAY,no
+Panama,2019,0.14,MAY,no
+Peru,2019,0.08,MAY,no
+Philippines (the),2019,0.23,MAY,no
+Poland,2019,0.13,MAY,no
+Portugal,2019,0.15,MAY,no
+Serbia,2019,0.26,MAY,no
+Russian Federation (the),2019,0.17,MAY,no
+Sweden,2019,0.11,MAY,no
+Singapore,2019,0.09,MAY,no
+Slovakia,2019,0.25,MAY,no
+Turkey,2019,0.34,MAY,no
+Trinidad and Tobago,2019,0.05,MAY,no
+Taiwan ,2019,0.12,MAY,no
+"Tanzania, United Republic of",2019,0.07,MAY,no
+Ukraine,2019,0.17,MAY,no
+United States of America (the),2019,0.13,MAY,no
+Venezuela (Bolivarian Republic of),2019,0.11,MAY,no
+Vietnam,2019,0.07,MAY,no
+South Africa,2019,0.08,MAY,no
+Argentina,2020,0.11,MAR,yes
+Austria,2020,0.08,MAR,yes
+Australia,2020,0.12,MAR,yes
+Begium,2020,0.09,MAR,yes
+Bulgaria,2020,0.03,MAR,yes
+Bolivia (Plurinational State of),2020,0.09,MAR,yes
+Brazil,2020,0.12,MAR,yes
+Botswana,2020,0.24,MAR,yes
+Belize,2020,0.05,MAR,yes
+Canada,2020,0.04,MAR,yes
+Switzerland,2020,0.05,MAR,yes
+Chile,2020,0.10,MAR,yes
+China,2020,0.06,MAR,yes
+Colombia,2020,0.12,MAR,yes
+Costa Rica,2020,0.17,MAR,yes
+Cuba,2020,0.17,MAR,yes
+Cuba,2020,0.13,MAR,yes
+Czechia,2020,0.05,MAR,yes
+Germany,2020,0.07,MAR,yes
+Denmark,2020,0.06,MAR,yes
+Dominican Republic (the),2020,0.04,MAR,yes
+Ecuador,2020,0.10,MAR,yes
+Egypt,2020,0.13,MAR,yes
+Spain,2020,0.09,MAR,yes
+Finland,2020,0.02,MAR,yes
+France,2020,0.06,MAR,yes
+United Kingdom of Great Britain and Northern Ireland (the),2020,0.05,MAR,yes
+Greece,2020,0.11,MAR,yes
+Hong Kong,2020,0.08,MAR,yes
+Honduras,2020,0.17,MAR,yes
+Hungary,2020,0.04,MAR,yes
+Indonesia,2020,0.14,MAR,yes
+Ireland,2020,0.08,MAR,yes
+Israel,2020,0.17,MAR,yes
+India,2020,0.08,MAR,yes
+Italy,2020,0.06,MAR,yes
+Japan,2020,0.08,MAR,yes
+Kenya,2020,0.10,MAR,yes
+Cambodia,2020,0.09,MAR,yes
+Korea (the Republic of),2020,0.13,MAR,yes
+Kazakhstan,2020,0.10,MAR,yes
+Sri Lanka,2020,0.08,MAR,yes
+Lithuania,2020,0.06,MAR,yes
+Morocco,2020,0.02,MAR,yes
+Madagascar,2020,0.36,MAR,yes
+Mexico,2020,0.12,MAR,yes
+Malaysia,2020,0.16,MAR,yes
+Nigeria,2020,0.25,MAR,yes
+Nicaragua,2020,0.08,MAR,yes
+Netherlands (the),2020,0.05,MAR,yes
+Norway,2020,0.03,MAR,yes
+New Zealand,2020,0.10,MAR,yes
+Panama,2020,0.05,MAR,yes
+Peru,2020,0.13,MAR,yes
+Philippines (the),2020,0.12,MAR,yes
+Poland,2020,0.07,MAR,yes
+Portugal,2020,0.10,MAR,yes
+Serbia,2020,0.15,MAR,yes
+Russian Federation (the),2020,0.03,MAR,yes
+Sweden,2020,0.02,MAR,yes
+Singapore,2020,0.09,MAR,yes
+Slovakia,2020,0.07,MAR,yes
+Turkey,2020,0.05,MAR,yes
+Trinidad and Tobago,2020,0.16,MAR,yes
+Taiwan ,2020,0.12,MAR,yes
+"Tanzania, United Republic of",2020,0.07,MAR,yes
+Ukraine,2020,0.05,MAR,yes
+United States of America (the),2020,0.09,MAR,yes
+Venezuela (Bolivarian Republic of),2020,0.04,MAR,yes
+Vietnam,2020,0.09,MAR,yes
+South Africa,2020,0.11,MAR,yes
+Argentina,2020,0.17,APR,yes
+Austria,2020,0.21,APR,yes
+Australia,2020,0.18,APR,yes
+Begium,2020,0.18,APR,yes
+Bulgaria,2020,0.05,APR,yes
+Bolivia (Plurinational State of),2020,0.48,APR,yes
+Brazil,2020,0.14,APR,yes
+Botswana,2020,0.18,APR,yes
+Belize,2020,0.01,APR,yes
+Canada,2020,0.09,APR,yes
+Switzerland,2020,0.14,APR,yes
+Chile,2020,0.05,APR,yes
+China,2020,0.13,APR,yes
+Colombia,2020,0.10,APR,yes
+Costa Rica,2020,0.05,APR,yes
+Cuba,2020,0.05,APR,yes
+Cuba,2020,0.04,APR,yes
+Czechia,2020,0.23,APR,yes
+Germany,2020,0.13,APR,yes
+Denmark,2020,0.15,APR,yes
+Dominican Republic (the),2020,0.17,APR,yes
+Ecuador,2020,0.09,APR,yes
+Egypt,2020,0.18,APR,yes
+Spain,2020,0.09,APR,yes
+Finland,2020,0.04,APR,yes
+France,2020,0.13,APR,yes
+United Kingdom of Great Britain and Northern Ireland (the),2020,0.20,APR,yes
+Greece,2020,0.12,APR,yes
+Hong Kong,2020,0.26,APR,yes
+Honduras,2020,0.17,APR,yes
+Hungary,2020,0.15,APR,yes
+Indonesia,2020,0.08,APR,yes
+Ireland,2020,0.17,APR,yes
+Israel,2020,0.16,APR,yes
+India,2020,0.08,APR,yes
+Italy,2020,0.10,APR,yes
+Japan,2020,0.17,APR,yes
+Kenya,2020,0.04,APR,yes
+Cambodia,2020,0.05,APR,yes
+Korea (the Republic of),2020,0.11,APR,yes
+Kazakhstan,2020,0.10,APR,yes
+Sri Lanka,2020,0.17,APR,yes
+Lithuania,2020,0.10,APR,yes
+Morocco,2020,0.03,APR,yes
+Madagascar,2020,0.10,APR,yes
+Mexico,2020,0.13,APR,yes
+Malaysia,2020,0.08,APR,yes
+Nigeria,2020,0.03,APR,yes
+Nicaragua,2020,0.22,APR,yes
+Netherlands (the),2020,0.11,APR,yes
+Norway,2020,0.07,APR,yes
+New Zealand,2020,0.19,APR,yes
+Panama,2020,0.43,APR,yes
+Peru,2020,0.12,APR,yes
+Philippines (the),2020,0.28,APR,yes
+Poland,2020,0.11,APR,yes
+Portugal,2020,0.09,APR,yes
+Serbia,2020,0.13,APR,yes
+Russian Federation (the),2020,0.08,APR,yes
+Sweden,2020,0.07,APR,yes
+Singapore,2020,0.05,APR,yes
+Slovakia,2020,0.13,APR,yes
+Turkey,2020,0.09,APR,yes
+Trinidad and Tobago,2020,0.07,APR,yes
+Taiwan ,2020,0.27,APR,yes
+"Tanzania, United Republic of",2020,0.15,APR,yes
+Ukraine,2020,0.16,APR,yes
+United States of America (the),2020,0.17,APR,yes
+Venezuela (Bolivarian Republic of),2020,0.08,APR,yes
+Vietnam,2020,0.15,APR,yes
+South Africa,2020,0.22,APR,yes
+Argentina,2020,0.09,MAY,yes
+Austria,2020,0.17,MAY,yes
+Australia,2020,0.12,MAY,yes
+Begium,2020,0.20,MAY,yes
+Bulgaria,2020,0.10,MAY,yes
+Bolivia (Plurinational State of),2020,0.05,MAY,yes
+Brazil,2020,0.11,MAY,yes
+Botswana,2020,0.09,MAY,yes
+Belize,2020,0.01,MAY,yes
+Canada,2020,0.16,MAY,yes
+Switzerland,2020,0.24,MAY,yes
+Chile,2020,0.07,MAY,yes
+China,2020,0.15,MAY,yes
+Colombia,2020,0.12,MAY,yes
+Costa Rica,2020,0.04,MAY,yes
+Cuba,2020,0.04,MAY,yes
+Cuba,2020,0.11,MAY,yes
+Czechia,2020,0.20,MAY,yes
+Germany,2020,0.20,MAY,yes
+Denmark,2020,0.23,MAY,yes
+Dominican Republic (the),2020,0.19,MAY,yes
+Ecuador,2020,0.12,MAY,yes
+Egypt,2020,0.08,MAY,yes
+Spain,2020,0.14,MAY,yes
+Finland,2020,0.19,MAY,yes
+France,2020,0.20,MAY,yes
+United Kingdom of Great Britain and Northern Ireland (the),2020,0.16,MAY,yes
+Greece,2020,0.14,MAY,yes
+Hong Kong,2020,0.15,MAY,yes
+Honduras,2020,0.10,MAY,yes
+Hungary,2020,0.20,MAY,yes
+Indonesia,2020,0.08,MAY,yes
+Ireland,2020,0.18,MAY,yes
+Israel,2020,0.21,MAY,yes
+India,2020,0.09,MAY,yes
+Italy,2020,0.22,MAY,yes
+Japan,2020,0.15,MAY,yes
+Kenya,2020,0.21,MAY,yes
+Cambodia,2020,0.14,MAY,yes
+Korea (the Republic of),2020,0.21,MAY,yes
+Kazakhstan,2020,0.13,MAY,yes
+Sri Lanka,2020,0.11,MAY,yes
+Lithuania,2020,0.21,MAY,yes
+Morocco,2020,0.02,MAY,yes
+Madagascar,2020,0.04,MAY,yes
+Mexico,2020,0.11,MAY,yes
+Malaysia,2020,0.07,MAY,yes
+Nigeria,2020,0.11,MAY,yes
+Nicaragua,2020,0.06,MAY,yes
+Netherlands (the),2020,0.20,MAY,yes
+Norway,2020,0.15,MAY,yes
+New Zealand,2020,0.13,MAY,yes
+Panama,2020,0.07,MAY,yes
+Peru,2020,0.05,MAY,yes
+Philippines (the),2020,0.08,MAY,yes
+Poland,2020,0.23,MAY,yes
+Portugal,2020,0.18,MAY,yes
+Serbia,2020,0.18,MAY,yes
+Russian Federation (the),2020,0.19,MAY,yes
+Sweden,2020,0.16,MAY,yes
+Singapore,2020,0.08,MAY,yes
+Slovakia,2020,0.17,MAY,yes
+Turkey,2020,0.21,MAY,yes
+Trinidad and Tobago,2020,0.12,MAY,yes
+Taiwan ,2020,0.14,MAY,yes
+"Tanzania, United Republic of",2020,0.06,MAY,yes
+Ukraine,2020,0.18,MAY,yes
+United States of America (the),2020,0.17,MAY,yes
+Venezuela (Bolivarian Republic of),2020,0.15,MAY,yes
+Vietnam,2020,0.13,MAY,yes
+South Africa,2020,0.08,MAY,yes
