@@ -7,9 +7,8 @@
 ##
 ## Author: Victor Vazquez & Christian Requena-Mesa
 ##
-## Date Created: 31-08-2020
 ##
-## Email: vazquez@uma.es
+## Email: victor.vazquez@coccosphere.es
 ## Email: crequ@bgc-jena.mpg.de
 ##
 ## ---------------------------
